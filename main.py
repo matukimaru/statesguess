@@ -1,7 +1,7 @@
 import turtle
 
 import pandas as pd
-from fuzzywuzzy import fuzz
+# from fuzzywuzzy import fuzz
 
 from scoreboard import Scoreboard
 from state import State
