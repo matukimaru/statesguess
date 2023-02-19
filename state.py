@@ -1,7 +1,7 @@
 import turtle
 
 
-class County(turtle.Turtle):
+class State(turtle.Turtle):
 
     def __init__(self, x, y, county):
         super().__init__()

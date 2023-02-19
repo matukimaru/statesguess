@@ -15,4 +15,4 @@ class Scoreboard(turtle.Turtle):
         self.clear()
         self.goto(350, 370)
         self.write(f"   Score: {self.score}\nAttempt: {self.attempt} of {self.total}", align="left",
-                   font=("Arial", 10, "normal"))
+                   font=("Arial", 10, "bold"))
